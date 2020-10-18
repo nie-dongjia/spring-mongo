@@ -1,0 +1,14 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://opadmin:root1234&&@mongodb.host:27017/OP_PlatForm
+logging:
+  level:
+    org.springframework.data.mongodb.core.MongoTemplate: DEBUG #配置MongoTemplate日志
+
+
+
+
+
+
+
